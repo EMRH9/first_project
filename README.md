@@ -1,4 +1,3 @@
 # first_project
 this is my first repository on github
-A new line was added to the code
-Yet another line of code
+a new line is added.
